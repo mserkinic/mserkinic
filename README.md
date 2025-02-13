@@ -17,6 +17,6 @@ Currently I work as .NET engineer. Here's a bit about me:
 
 💬 Connect with me
 
-[![image](https://github.com/user-attachments/assets/969ea563-2243-458b-a5b9-11d5a9601964)][1]
+[![image](https://github.com/user-attachments/assets/969ea563-2243-458b-a5b9-11d5a9601964 =32x32)][1]
 
 [1]: https://www.linkedin.com/in/mate-%C5%A1erkini%C4%87-a73124253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaGezt1eZQe%2B2bei%2FlCRn%2Bw%3D%3D
